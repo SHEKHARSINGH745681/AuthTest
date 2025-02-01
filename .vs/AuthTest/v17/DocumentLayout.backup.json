@@ -1,0 +1,191 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ShekharSingh\\source\\repos\\AuthTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E67497-8EDD-4C28-9B4B-993E7E5A2783}|AuthTest\\AuthTest.csproj|c:\\users\\shekharsingh\\source\\repos\\authtest\\authtest\\controllers\\securecontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9E67497-8EDD-4C28-9B4B-993E7E5A2783}|AuthTest\\AuthTest.csproj|solutionrelative:authtest\\controllers\\securecontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E67497-8EDD-4C28-9B4B-993E7E5A2783}|AuthTest\\AuthTest.csproj|c:\\users\\shekharsingh\\source\\repos\\authtest\\authtest\\controllers\\authcontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9E67497-8EDD-4C28-9B4B-993E7E5A2783}|AuthTest\\AuthTest.csproj|solutionrelative:authtest\\controllers\\authcontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E67497-8EDD-4C28-9B4B-993E7E5A2783}|AuthTest\\AuthTest.csproj|c:\\users\\shekharsingh\\source\\repos\\authtest\\authtest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9E67497-8EDD-4C28-9B4B-993E7E5A2783}|AuthTest\\AuthTest.csproj|solutionrelative:authtest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E67497-8EDD-4C28-9B4B-993E7E5A2783}|AuthTest\\AuthTest.csproj|c:\\users\\shekharsingh\\source\\repos\\authtest\\authtest\\model\\authorizewithsecretkeyorjwt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9E67497-8EDD-4C28-9B4B-993E7E5A2783}|AuthTest\\AuthTest.csproj|solutionrelative:authtest\\model\\authorizewithsecretkeyorjwt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E67497-8EDD-4C28-9B4B-993E7E5A2783}|AuthTest\\AuthTest.csproj|c:\\users\\shekharsingh\\source\\repos\\authtest\\authtest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B9E67497-8EDD-4C28-9B4B-993E7E5A2783}|AuthTest\\AuthTest.csproj|solutionrelative:authtest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E67497-8EDD-4C28-9B4B-993E7E5A2783}|AuthTest\\AuthTest.csproj|c:\\users\\shekharsingh\\source\\repos\\authtest\\authtest\\model\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9E67497-8EDD-4C28-9B4B-993E7E5A2783}|AuthTest\\AuthTest.csproj|solutionrelative:authtest\\model\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E67497-8EDD-4C28-9B4B-993E7E5A2783}|AuthTest\\AuthTest.csproj|c:\\users\\shekharsingh\\source\\repos\\authtest\\authtest\\model\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9E67497-8EDD-4C28-9B4B-993E7E5A2783}|AuthTest\\AuthTest.csproj|solutionrelative:authtest\\model\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E67497-8EDD-4C28-9B4B-993E7E5A2783}|AuthTest\\AuthTest.csproj|c:\\users\\shekharsingh\\source\\repos\\authtest\\authtest\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9E67497-8EDD-4C28-9B4B-993E7E5A2783}|AuthTest\\AuthTest.csproj|solutionrelative:authtest\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E67497-8EDD-4C28-9B4B-993E7E5A2783}|AuthTest\\AuthTest.csproj|c:\\users\\shekharsingh\\source\\repos\\authtest\\authtest\\migrations\\20250130104227_add1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9E67497-8EDD-4C28-9B4B-993E7E5A2783}|AuthTest\\AuthTest.csproj|solutionrelative:authtest\\migrations\\20250130104227_add1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9E67497-8EDD-4C28-9B4B-993E7E5A2783}|AuthTest\\AuthTest.csproj|c:\\users\\shekharsingh\\source\\repos\\authtest\\authtest\\migrations\\20250130102452_add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9E67497-8EDD-4C28-9B4B-993E7E5A2783}|AuthTest\\AuthTest.csproj|solutionrelative:authtest\\migrations\\20250130102452_add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20250130104227_add1.cs",
+              "DocumentMoniker": "C:\\Users\\ShekharSingh\\source\\repos\\AuthTest\\AuthTest\\Migrations\\20250130104227_add1.cs",
+              "RelativeDocumentMoniker": "AuthTest\\Migrations\\20250130104227_add1.cs",
+              "ToolTip": "C:\\Users\\ShekharSingh\\source\\repos\\AuthTest\\AuthTest\\Migrations\\20250130104227_add1.cs",
+              "RelativeToolTip": "AuthTest\\Migrations\\20250130104227_add1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T10:42:27.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20250130102452_add.cs",
+              "DocumentMoniker": "C:\\Users\\ShekharSingh\\source\\repos\\AuthTest\\AuthTest\\Migrations\\20250130102452_add.cs",
+              "RelativeDocumentMoniker": "AuthTest\\Migrations\\20250130102452_add.cs",
+              "ToolTip": "C:\\Users\\ShekharSingh\\source\\repos\\AuthTest\\AuthTest\\Migrations\\20250130102452_add.cs",
+              "RelativeToolTip": "AuthTest\\Migrations\\20250130102452_add.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T10:24:52.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController .cs",
+              "DocumentMoniker": "C:\\Users\\ShekharSingh\\source\\repos\\AuthTest\\AuthTest\\Controllers\\AuthController .cs",
+              "RelativeDocumentMoniker": "AuthTest\\Controllers\\AuthController .cs",
+              "ToolTip": "C:\\Users\\ShekharSingh\\source\\repos\\AuthTest\\AuthTest\\Controllers\\AuthController .cs",
+              "RelativeToolTip": "AuthTest\\Controllers\\AuthController .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T10:21:00.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ShekharSingh\\source\\repos\\AuthTest\\AuthTest\\appsettings.json",
+              "RelativeDocumentMoniker": "AuthTest\\appsettings.json",
+              "ToolTip": "C:\\Users\\ShekharSingh\\source\\repos\\AuthTest\\AuthTest\\appsettings.json",
+              "RelativeToolTip": "AuthTest\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-30T10:16:15.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ShekharSingh\\source\\repos\\AuthTest\\AuthTest\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "AuthTest\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\ShekharSingh\\source\\repos\\AuthTest\\AuthTest\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "AuthTest\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T10:11:34.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SecureController .cs",
+              "DocumentMoniker": "C:\\Users\\ShekharSingh\\source\\repos\\AuthTest\\AuthTest\\Controllers\\SecureController .cs",
+              "RelativeDocumentMoniker": "AuthTest\\Controllers\\SecureController .cs",
+              "ToolTip": "C:\\Users\\ShekharSingh\\source\\repos\\AuthTest\\AuthTest\\Controllers\\SecureController .cs",
+              "RelativeToolTip": "AuthTest\\Controllers\\SecureController .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T10:10:50.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ShekharSingh\\source\\repos\\AuthTest\\AuthTest\\Program.cs",
+              "RelativeDocumentMoniker": "AuthTest\\Program.cs",
+              "ToolTip": "C:\\Users\\ShekharSingh\\source\\repos\\AuthTest\\AuthTest\\Program.cs",
+              "RelativeToolTip": "AuthTest\\Program.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAYwDMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T10:09:14.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthorizeWithSecretKeyOrJwt.cs",
+              "DocumentMoniker": "C:\\Users\\ShekharSingh\\source\\repos\\AuthTest\\AuthTest\\Model\\AuthorizeWithSecretKeyOrJwt.cs",
+              "RelativeDocumentMoniker": "AuthTest\\Model\\AuthorizeWithSecretKeyOrJwt.cs",
+              "ToolTip": "C:\\Users\\ShekharSingh\\source\\repos\\AuthTest\\AuthTest\\Model\\AuthorizeWithSecretKeyOrJwt.cs",
+              "RelativeToolTip": "AuthTest\\Model\\AuthorizeWithSecretKeyOrJwt.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T10:10:19.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RegisterModel.cs",
+              "DocumentMoniker": "C:\\Users\\ShekharSingh\\source\\repos\\AuthTest\\AuthTest\\Model\\RegisterModel.cs",
+              "RelativeDocumentMoniker": "AuthTest\\Model\\RegisterModel.cs",
+              "ToolTip": "C:\\Users\\ShekharSingh\\source\\repos\\AuthTest\\AuthTest\\Model\\RegisterModel.cs",
+              "RelativeToolTip": "AuthTest\\Model\\RegisterModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T10:22:04.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\ShekharSingh\\source\\repos\\AuthTest\\AuthTest\\Model\\LoginModel.cs",
+              "RelativeDocumentMoniker": "AuthTest\\Model\\LoginModel.cs",
+              "ToolTip": "C:\\Users\\ShekharSingh\\source\\repos\\AuthTest\\AuthTest\\Model\\LoginModel.cs",
+              "RelativeToolTip": "AuthTest\\Model\\LoginModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T10:22:35.166Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
